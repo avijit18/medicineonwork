@@ -1,0 +1,16 @@
+body{
+  background-color: #caf7e3;
+  margin: 0;
+  background-image:url("images medic.jpg");
+}
+
+div{
+  color:blue;
+  font-size: 55px;
+}
+h1{
+  color: #007580;
+  font-size: 150px;
+  font-style: italic;
+
+}
